@@ -1,3 +1,6 @@
+def subtract (b, a)
+    return (b - a)
+
 i = 0
 
 i = add (i, 3)
