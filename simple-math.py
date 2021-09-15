@@ -1,5 +1,5 @@
-def subtract (b, a):
-    return (b - a)
+def subtract (a, b):
+    return (a - b)
 
 i = 0
 
