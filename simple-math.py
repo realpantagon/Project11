@@ -1,4 +1,4 @@
-def subtract (b, a)
+def subtract (b, a):
     return (b - a)
 
 i = 0
