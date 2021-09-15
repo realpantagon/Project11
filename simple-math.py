@@ -1,7 +1,6 @@
 def add(a, b):
     return(a+b)
-
-def subtract (b, a)
+def subtract (b, a):
     return (b - a)
     
 def divide(b, a):
